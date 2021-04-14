@@ -41,6 +41,7 @@ TODO: Make a website with theese things using the LAMP stack (Linux/Apache/MySQL
 - Python
 - Rethinkdb
 - kukanq
+- pankoza
 
 # Things that are good
 - PHP
