@@ -44,6 +44,7 @@ TODO: Make a website with theese things using the LAMP stack (Linux/Apache/MySQL
 - pankoza
 
 # Things that are good
+- pole kwadratu
 - PHP
 - JavaScript
 - MySQL
